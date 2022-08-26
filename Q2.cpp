@@ -1,4 +1,9 @@
+//Name-Akarsh Gupta
+//Roll no-2010991803
+//Set-5
+//Q2
 #include <bits/stdc++.h>
+
 using namespace std;
 
 // Function to print all subarrays in the array which has sum 0

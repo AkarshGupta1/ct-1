@@ -1,3 +1,7 @@
+//Name-Akarsh Gupta
+//Roll no-2010991803
+//Set-5
+//Q1
 #include <bits/stdc++.h>
 using namespace std;
 
